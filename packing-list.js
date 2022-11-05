@@ -7,3 +7,13 @@ while (i < packingList.length){
   console.log(packingList[i]);
   i++;
 }
+
+/*
+
+Written as a for loop:
+
+for (let i = 0; i < packingList.length; i++) {
+  console.log(packingList[i]);
+}
+
+*/
